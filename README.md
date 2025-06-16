@@ -1,2 +1,26 @@
-# Iris-Data-Visualization
-Iris Dataset Visualization – Explored the famous Iris flower dataset using Python. Performed data inspection, summary statistics, and visualized feature relationships using scatter plots, histograms, and box plots with seaborn and matplotlib.
+# Task: Iris Dataset Visualization 🌸
+
+### 📌 Objective:
+Explore and visualize the Iris dataset to understand relationships between flower features.
+
+### 🛠 Tools Used:
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+- Google Colab
+
+### 📈 What’s Covered:
+- Dataset loading and inspection
+- Summary statistics
+- Scatter plots
+- Histograms
+- Box plots
+
+### 📦 Dataset:
+Built-in `iris` dataset from Seaborn library.
+
+### 🔍 Key Learnings:
+- How to inspect datasets
+- Basic visualization in Python
+- How to spot data patterns
